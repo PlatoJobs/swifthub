@@ -1,2 +1,4 @@
-# SwiftHub序言
+# swifthub
+
+初始化仓库 计划写点东西
 
